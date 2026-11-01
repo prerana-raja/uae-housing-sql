@@ -1,0 +1,15 @@
+property_type,bedroom_label,listings,median_price_aed,median_ppsf
+Apartment,Studio,501,725000.0,1733.0
+Apartment,1 BR,1158,1277249.0,1626.0
+Apartment,2 BR,812,2200000.0,1784.0
+Apartment,3 BR,254,3912500.0,2115.0
+Apartment,4 BR,60,12622500.0,2616.0
+Townhouse,2 BR,15,1700000.0,1072.0
+Townhouse,3 BR,123,2948888.0,1458.0
+Townhouse,4 BR,87,3600000.0,1337.0
+Townhouse,5 BR,23,3600000.0,1147.0
+Villa,2 BR,16,3300000.0,1814.0
+Villa,3 BR,75,3400000.0,1430.0
+Villa,4 BR,133,5700000.0,1602.0
+Villa,5 BR,88,12250000.0,1859.0
+Villa,6 BR,49,22500000.0,2106.0

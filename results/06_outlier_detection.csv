@@ -1,0 +1,5 @@
+property_type,listings,q1,q3,upper_fence,outliers_above,outlier_share_pct,max_ppsf
+Apartment,2792,1330.3,2382.1,3960.0,149,5.3,12285.0
+Villa,373,1265.1,2233.6,3686.0,17,4.6,8807.0
+Townhouse,251,1097.5,1639.9,2454.0,4,1.6,2939.0
+Penthouse,17,2538.3,6603.8,12702.0,2,11.8,14838.0
